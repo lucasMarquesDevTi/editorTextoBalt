@@ -1,0 +1,15 @@
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\bin\Debug\net8.0\editorTextoBalt.exe
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\bin\Debug\net8.0\editorTextoBalt.deps.json
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\bin\Debug\net8.0\editorTextoBalt.runtimeconfig.json
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\bin\Debug\net8.0\editorTextoBalt.dll
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\bin\Debug\net8.0\editorTextoBalt.pdb
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\editorTextoBalt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\editorTextoBalt.AssemblyInfoInputs.cache
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\editorTextoBalt.AssemblyInfo.cs
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\editorTextoBalt.csproj.CoreCompileInputs.cache
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\editorTextoBalt.sourcelink.json
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\editorTextoBalt.dll
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\refint\editorTextoBalt.dll
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\editorTextoBalt.pdb
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\editorTextoBalt.genruntimeconfig.cache
+C:\Users\lucas.marques\source\repos\editorTextoBalt\editorTextoBalt\obj\Debug\net8.0\ref\editorTextoBalt.dll

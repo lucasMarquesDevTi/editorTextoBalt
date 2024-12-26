@@ -38,10 +38,14 @@ namespace EditorTexto
 
             string texto = "";
 
-            while (Console.ReadKey().Key != ConsoleKey.Escape) 
-            { 
-
+            do
+            {
+                texto += Console.ReadLine();
+                texto += Environment.NewLine;
             }
+            while (Console.ReadKey().Key != ConsoleKey.Escape);
+            
+            Console.WriteLine(texto);
         }
     }
 }
