@@ -29,7 +29,23 @@ namespace EditorTexto
             }
         }
 
-        static void Abrir() { }
+        static void Abrir() 
+        {
+            Console.Clear();
+            Console.WriteLine("Qual o caminho do arquivo?");
+            string path = Console.ReadLine();
+
+            using (var file = new StreamReader(path))
+            {
+                string texto = file.ReadToEnd();
+                Console.WriteLine(texto);
+            }
+
+            Console.WriteLine("");
+            Console.ReadLine();
+
+            Menu();
+        }
 
         static void Editar() 
         {
@@ -45,14 +61,14 @@ namespace EditorTexto
                 texto += Environment.NewLine;
             }
             while (Console.ReadKey().Key != ConsoleKey.Escape);
-            
-            Console.WriteLine(texto);
+
+            Salvar(texto);
         }
 
         static void Salvar(string texto)
         {
             Console.Clear();
-            Console.WriteLine("Qual caminho para salvar o arquivo?");
+            Console.WriteLine(" Qual caminho para salvar o arquivo?");
 
             var path = Console.ReadLine();
 
@@ -60,6 +76,12 @@ namespace EditorTexto
             {
                 file.Write(texto);
             }
+
+            Console.WriteLine($"Arquivo {path} salvo com sucesso!");
+            Console.ReadLine();
+            Menu();
         }
+
+        
     }
 }

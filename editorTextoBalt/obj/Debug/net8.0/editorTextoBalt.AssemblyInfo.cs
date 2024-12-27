@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("editorTextoBalt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+200f36fbfd704671a01ae92525eeb83e90a0ad6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+875643e3e38b6cd82c5f02fc83c86fb2a6cf7677")]
 [assembly: System.Reflection.AssemblyProductAttribute("editorTextoBalt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("editorTextoBalt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
